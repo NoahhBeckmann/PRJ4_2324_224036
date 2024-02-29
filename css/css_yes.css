@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+.noah_font {color: #F00B0E;
+	font-size: 30px;
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+
+.pipi {font-family: "Micro 5", sans-serif;}
+
+#lala {color: #F00B0E;
+	font-size: 30px;
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+
+.mybox {
+    width: 204px;
+    height: 359px;
+    background-color: #C5696A;
+    margin-top: 26px;
+    margin-right: 26px;
+    margin-bottom: 26px;
+    margin-left: 26px;
+    padding-top: 13px;
+    padding-right: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+}
+
+
+.mybcoler {  background-color: #C5696A;}
