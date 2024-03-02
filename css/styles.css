@@ -14,15 +14,21 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #254C71;
+    -webkit-box-shadow: 0px -1px 29px 1px #131010;
+    box-shadow: 0px -1px 29px 1px #131010;
 }
 
 .resume-main {
-	background-color: #fffefc;
+    background-color: #BCC8D3;
+    -webkit-box-shadow: -9px 8px 30px -12px;
+    box-shadow: -9px 8px 30px -12px;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+    background-color: #A0AFBC;
+    -webkit-box-shadow: 9px 8px 30px -12px;
+    box-shadow: 9px 8px 30px -12px;
 }
 
 /* Styles for lists in the document */
@@ -49,3 +55,6 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.fw-bolder{color: white}
+.fst-italic{color: white}
