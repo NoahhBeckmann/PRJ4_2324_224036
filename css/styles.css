@@ -41,8 +41,10 @@ body {
 	margin-left: -1em;
 }
 
+
+
 .biography-details li::before {
-	color: #EE7623;
+	color: white;
 }
 
 .biography-details li, .skill-list li {
@@ -58,3 +60,24 @@ body {
 
 .fw-bolder{color: white}
 .fst-italic{color: white}
+
+a{
+color: #FFFFFF;
+text-decoration-line: none;
+}
+
+a:hover{
+	text-decoration-line: underline;
+	color:#254C71
+}
+
+h6{
+	color: white;
+	background-color:#254C71;
+
+}
+
+.links1{
+	padding-left:40px;
+}
+
