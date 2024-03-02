@@ -34,7 +34,7 @@ body {
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
-	content: ">";
+	content: "•";
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
@@ -59,7 +59,18 @@ body {
 }
 
 .fw-bolder{color: white}
-.fst-italic{color: white}
+.fontnoah{   font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;}
+
+
+.fst-italic{color: white;
+	font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
 
 a{
 color: #FFFFFF;
@@ -74,10 +85,13 @@ a:hover{
 h6{
 	color: white;
 	background-color:#254C71;
-
 }
 
 .links1{
 	padding-left:40px;
+}
+
+.biography-logo{
+	margin-top: 10px
 }
 
