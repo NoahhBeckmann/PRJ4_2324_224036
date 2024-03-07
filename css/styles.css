@@ -8,7 +8,7 @@
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
-	background-color: #f8f8fc;
+	background-color: #1E2B4E;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -30,6 +30,7 @@ body {
     -webkit-box-shadow: 9px 8px 30px -12px;
     box-shadow: 9px 8px 30px -12px;
 }
+
 
 /* Styles for lists in the document */
 
